@@ -15,8 +15,6 @@
                                       |___/            
 ```
 
-# Sharada Marasinghe
-
 **`Full-Stack Developer · Code Commander`**
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=00FF00&center=true&vCenter=true&width=520&lines=Building+full-stack+systems+from+Sri+Lanka;Java+%7C+Python+%7C+JavaScript+%7C+TypeScript;React+%7C+Angular+%7C+Spring+Boot+%7C+Django;Cloud%2C+Docker%2C+CI%2FCD+--+ship+it.)](https://git.io/typing-svg)
