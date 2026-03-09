@@ -21,13 +21,13 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharada-marasinha/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharada-marasinghe/)
 [![Twitter](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/sharadamarasin2)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15007148)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://fb.com/sharada.marasinha)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/sharadamarasinha)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharadamarasinha@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=sharada-marasinha&style=for-the-badge&color=00ff00&label=VISITORS)](https://github.com/sharada-marasinha)
+[![Profile Views](https://komarev.com/ghpvc/?username=sharada-marasinghe&style=for-the-badge&color=00ff00&label=VISITORS)](https://github.com/sharada-marasinghe)
 
 </div>
 
@@ -96,17 +96,17 @@ $ cat profile.json
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="18"/> &nbsp; **GitHub Stats**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sharada-marasinha&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=ffffff" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sharada-marasinghe&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=ffffff" height="170"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sharada-marasinha&langs_count=8&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=ffffff" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sharada-marasinghe&langs_count=8&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=ffffff" height="170"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharada-marasinha&theme=dark&hide_border=true&background=0d1117&ring=00ff00&fire=00ff00&currStreakLabel=00ff00&sideLabels=00ff00&dates=888888" width="500"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharada-marasinghe&theme=dark&hide_border=true&background=0d1117&ring=00ff00&fire=00ff00&currStreakLabel=00ff00&sideLabels=00ff00&dates=888888" width="500"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sharada-marasinha&bg_color=0d1117&color=00ff00&line=00ff00&point=ffffff&area=true&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sharada-marasinghe&bg_color=0d1117&color=00ff00&line=00ff00&point=ffffff&area=true&hide_border=true" width="100%"/>
 </div>
 
 ---
@@ -114,7 +114,7 @@ $ cat profile.json
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="18"/> &nbsp; **GitHub Trophies**
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sharada-marasinha&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=sharada-marasinghe&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=7"/>
 </div>
 
 ---
